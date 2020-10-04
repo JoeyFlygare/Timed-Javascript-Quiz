@@ -41,6 +41,7 @@ var questions = [
         answer: "True"
     },
 ];
+console.log(questions[1])
 
 var secondsLeft = (questions.length * 20 + 1);  
 
@@ -70,6 +71,7 @@ function setTimer() {
 
 function makeQuestions() {
     questionNumber++;
+    if (questions[questionNumber] != null){
     answer = questions[questionNumber].answer
 
     questionHead.textContent = questions[questionNumber].title;
@@ -82,6 +84,7 @@ function makeQuestions() {
 
         nextChoice.textContent = choices[q]
         answerBtn = answerChoices.appendChild(nextChoice).setAttribute("class", "p-3 m-1 btn btn-light btn-block");
+    }      
     }
 }
 
