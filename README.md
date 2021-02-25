@@ -1,11 +1,53 @@
 # Timed-Javascript-Quiz
 
-## About this project
-In this project I was tasked with building a timed quiz on basic JavaScript knowledge. I created two html page to complete this using bootstrap for basic styling. Using timers,
-for loops and eventListeners I was able to complete the function of the quiz creating its buttons for each set of answers on each of the questions and was able to store the scores outside of local storage and append it to a scores list that sorts high to low scores.
-### Deployed site
-<img scr="https://raw.githubusercontent.com/JoeyFlygare/Timed-Javascript-Quiz/master/assets/Capture.PNG">
 
-#### Author
+![GitHub top language](https://img.shields.io/github/languages/top/kbnewlon/project3) ![Libraries.io dependency status for GitHub repo](https://img.shields.io/badge/license-MIT_License-yellowgreen)
+
+
+## Description
+This project was a timed quiz on basic JavaScript knowledge. It uses two html page to complete this using bootstrap for basic styling. Using timers, for loops, and eventListeners to complete the function of the quiz creating its buttons for each set of answers on each of the questions and was able to store the scores outside of local storage and append it to a scores list that sorts high to low scores.
+
+
+## **Table of Contents**
+
+1. [Usage](#usage)
+2. [License](#license)
+3. [Framework](#framework)
+4. [Contributors](#contributors)
+5. [Wireframe](#wireframe)
+6. [Technologies](#technologies)
+7. [Visuals](#visuals)
+8. [Demos](#demos)
+9. [Links](#links)
+
+
+## **Usage**
+To use this quiz simply stroll over to the deployed add at  https://joeyflygare.github.io/Timed-Javascript-Quiz/
+
+
+## **License**
+Copyright (c) 2021, Joseph Flygare
+
+
+## **Frameworks**
+Built with Bootstrap
+
+
+## **Contributors**
 Joseph Flygare
 * Wow amazing!
+
+
+## **Technologies**
+* React.js
+* Node
+* Javascript
+
+
+## **Questions**
+Contact our team at jayfly64@gmail.com for any questions 
+
+## **Visuals**
+<img scr="assets/Capture.PNG">
+https://joeyflygare.github.io/Timed-Javascript-Quiz/
+
