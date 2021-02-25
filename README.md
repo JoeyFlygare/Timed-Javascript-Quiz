@@ -22,7 +22,7 @@ This project was a timed quiz on basic JavaScript knowledge. It uses two html pa
 
 
 ## **Usage**
-To use this quiz simply stroll over to the deployed add at  https://joeyflygare.github.io/Timed-Javascript-Quiz/
+To use this quiz simply stroll over to the deployed site at  https://joeyflygare.github.io/Timed-Javascript-Quiz/
 
 
 ## **License**
