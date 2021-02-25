@@ -48,6 +48,6 @@ Joseph Flygare
 Contact our team at jayfly64@gmail.com for any questions 
 
 ## **Visuals**
-<img scr="assets/Capture.PNG">
+![screenshot](assets/Capture.PNG)
 https://joeyflygare.github.io/Timed-Javascript-Quiz/
 
